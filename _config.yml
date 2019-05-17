@@ -1,11 +1,11 @@
 # Site settings
 author: Zhaleh Feizollahi
-title: 
+title: Linguist Turned Scientist Blog
 header-img: img/home-bg.png
 email: zhaleh.feizollahi@gmail.com
 copyright_name: Zhaleh Feizollahi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Computational linguist working on transforming into a data scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zfeizollahi
